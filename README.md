@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Merlin</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">Enthusiastic about innovations in technology</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ8wQVeY-R7ea_vHdgL-2VeQHOFPudC0ff2w&usqp=CAU">
 
 
